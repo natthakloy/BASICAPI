@@ -1,0 +1,25 @@
+[{
+        "title": "What is Computer?",
+        "subtitle": "A computer is a machine that can be programmed to carry out sequences of arithmetic or logical operations automatically. Modern computers can perform generic sets of operations known as programs. These programs enable computers to perform a wide range of tasks. ",
+        "image_url": "https://cdn.pixabay.com/photo/2017/05/11/11/15/workplace-2303851_960_720.jpg",
+        "detail": "หรือศัพท์บัญญัติราชบัณฑิตยสภาว่า คณิตกรณ์ \n\n เครื่องคำนวณอิเล็กทรอนิกส์โดยใช้วิธีทางคณิตศาสตร์ประกอบด้วยฮาร์ดแวร์ (ส่วนตัวเครื่องและอุปกรณ์) \n\nและซอฟต์แวร์ (ส่วนชุดคำสั่ง หรือโปรแกรมที่สั่งให้คอมพิวเตอร์ทำงาน) สามารถทำงานคำนวณผล และเปรียบเทียบค่าตามชุดคำสั่งด้วยความเร็วสูงอย่างต่อเนื่อง และอัตโนมัติ"
+    },
+    {
+        "title": "What is Computer Programming",
+        "subtitle": "Computer programming is the process of designing and building an executable computer program to accomplish a specific computing result or to perform a particular task. Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption.",
+        "image_url": "https://cdn.pixabay.com/photo/2016/04/15/15/23/stress-1331259_960_720.jpg",
+        "detail": "เป็นขั้นตอนการเขียน ทดสอบ และดูแลซอร์สโค้ดของโปรแกรมคอมพิวเตอร์ ซึ่งซอร์สโค้ดนั้นจะเขียนด้วยภาษาโปรแกรม ขั้นตอนการเขียนโปรแกรมต้องการความรู้ในหลายด้านด้วยกัน เกี่ยวกับโปรแกรมที่ต้องการจะเขียน และขั้นตอนวิธีที่จะใช้ ซึ่งในวิศวกรรมซอฟต์แวร์นั้น การเขียนโปรแกรมถือเป็นเพียงขั้นหนึ่งในวงจรชีวิตของการพัฒนาซอฟต์แวร์"
+    },
+    {
+        "title": "What is Programmer",
+        "subtitle": "A programmer is an individual that writes/creates computer software or applications by giving the computer specific programming instructions. Most programmers have a broad computing and coding background across multiple programming languages and platforms",
+        "image_url": "https://cdn.pixabay.com/photo/2018/08/18/13/26/interface-3614766_960_720.png",
+        "detail": "คนที่เขียนโปรแกรมสั่งให้คอมพิวเตอร์ทำงานตามที่ต้องการได้ และควรจะมีความชำนาญด้วย ( สำหรับคนที่หัดเขียนใหม่ ๆ ไม่ควรจะใช้คำ ๆ นี้) นักเขียนโปรแกรมที่ดีนั้น จะต้องรู้วิธีแก้ปัญหา และรู้ด้วยว่า จะแก้อย่างไร รวมทั้งต้องเข้าใจหลักและกฎเกณฑ์ของภาษาต่าง ๆ ที่จะทำให้เครื่องคอมพิวเตอร์เข้าใจด้วย เพื่อจะได้ปฏิบัติตามคำสั่งได้"
+    },
+    {
+        "title": "What is Hardware",
+        "subtitle": "Abbreviated as HW, hardware is best described as any physical component of a computer system containing a circuit board, ICs, or other electronics. A perfect example of hardware is the screen on which you are viewing this page. Whether it be a monitor, tablet, or smartphone, it is hardware.",
+        "image_url": "https://cdn.pixabay.com/photo/2016/04/02/03/07/ethernet-1302083_960_720.jpg",
+        "detail": "ส่วนกายภาพของเครื่องคอมพิวเตอร์ แบ่งเป็น 3 ส่วนใหญ่ ๆ คือ 1. หน่วยรับข้อมูล เช่น แป้นพิมพ์ หน่วยบันทึก 2. หน่วยความจำ เช่น ชิป (chip) หรือหน่วยความจำรอง เช่น จานบันทึก 3. หน่วยแสดงผล เช่น จอภาพ เครื่องพิมพ์ ฯลฯ นอกจากนั้นยังรวมถึงอุปกรณ์ ประกอบอื่น ๆ เช่น โมเด็ม ดู software เปรียบ เทียบ"
+    }
+]
